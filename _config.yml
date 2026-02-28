@@ -2,7 +2,7 @@ title: Om
 description: AI & Data Science | Research Portfolio
 
 url: "https://omparhadresearch.github.io"
-baseurl: ""
+baseurl: ""/omparhadresearch.github.io""
 
 theme: minima
 
