@@ -3,24 +3,8 @@ description: AI & Data Science | Research Portfolio
 url: "https://omparhad.github.io/omparhadresearch.github.io/"
 baseurl: ""
 
-theme: minimal-mistakes-jekyll
 
-author:
-  name: "Om"
-  bio: "BSc AI & Data Science student exploring reliable and interpretable AI systems."
-  location: "India"
-  email: "omparahd4@gamil.com"
+theme: minima
 
-
-  collections:
-  posts:
-    output: true
-
- header:
-  nav:
-    - title: "Blog"
-      url: /blog/
-    - title: "Projects"
-      url: /projects/
-       - title: "Post"
-      url: /_post
+header_pages:
+  - blog.md
