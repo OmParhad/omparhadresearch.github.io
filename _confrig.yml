@@ -1,3 +1,12 @@
-title: Om Research Notes
-description: Academic portfolio documenting research exploration in AI & Data Science.
-theme: minima
+title: Om
+description: AI & Data Science | Research Portfolio
+url: ""
+baseurl: ""
+
+theme: minimal-mistakes-jekyll
+
+author:
+  name: "Om"
+  bio: "BSc AI & Data Science student exploring reliable and interpretable AI systems."
+  location: "India"
+  email: "your-email@example.com"
