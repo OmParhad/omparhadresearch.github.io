@@ -22,3 +22,5 @@ author:
       url: /blog/
     - title: "Projects"
       url: /projects/
+       - title: "Post"
+      url: /_post
