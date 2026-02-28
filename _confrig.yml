@@ -15,3 +15,9 @@ author:
   collections:
   posts:
     output: true
+header:
+  nav:
+    - title: "Blog"
+      url: /blog/
+    - title: "Projects"
+      url: /projects/
