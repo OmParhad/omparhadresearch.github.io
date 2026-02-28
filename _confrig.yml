@@ -15,7 +15,8 @@ author:
   collections:
   posts:
     output: true
-header:
+
+ header:
   nav:
     - title: "Blog"
       url: /blog/
