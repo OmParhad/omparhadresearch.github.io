@@ -10,3 +10,8 @@ author:
   bio: "BSc AI & Data Science student exploring reliable and interpretable AI systems."
   location: "India"
   email: "omparahd4@gamil.com"
+
+
+  collections:
+  posts:
+    output: true
